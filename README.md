@@ -1,4 +1,4 @@
-# -the-seven-streams
+# the-seven-streams
 My personal repository
 Hello！┏(＾0＾)┛\
 你好(nə hɔ)!\
