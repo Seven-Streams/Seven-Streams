@@ -6,7 +6,7 @@ I'm a green hand,but I will keep learning!
 
 
 ******** If there is even no torch in the future,then I will be the **ONLY** light. ********\
-*I pray for the peace of the world.*\M
+*I pray for the peace of the world.*\
 *I pray for the future of the human beings.*
 
 
