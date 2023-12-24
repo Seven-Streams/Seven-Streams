@@ -1,7 +1,7 @@
-# the-seven-streams
-Hello！你好(nə hɔ)!\
-I'm a student of Shanghai Jiao Tong University,and I major in computer science.\
-I'm a green hand,but I will keep learning!
+<h1 align="center">Hello!(你好(nə hɔ))!👋, here is The Seven Streams.</h1>
+I'm a student of Shanghai Jiao Tong University,and major in computer science.
+
+I'll keep on learning until the farewell bewteen the world and me.
 
 
 
