@@ -1,4 +1,4 @@
-<h1 align="center">Hello!(你好(nə hɔ))!👋, here is The Seven Streams.</h1>
+<h1 align="center">Hello!(你好(nə hɔ))!👋, here is Seven Streams.</h1>
 I'm a student of Shanghai Jiao Tong University,and major in computer science.
 
 I'll keep on learning until the farewell bewteen the world and me.
