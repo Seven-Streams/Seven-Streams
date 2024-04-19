@@ -3,6 +3,9 @@ I'm a student of Shanghai Jiao Tong University,and major in computer science.
 
 I'll keep on learning until the farewell bewteen the world and me.
 
+Here is my archive: [https://linzhangli.top](https://linzhangli.top)
+
+Here is my blog: [https://seven-streams.github.io](https://seven-streams.github.io)
 
 
 ******** If there is even no torch in the future,then I will be the **ONLY** light. ********\
