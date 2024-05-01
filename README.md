@@ -12,7 +12,6 @@ Here is my blog: [https://seven-streams.github.io](https://seven-streams.github.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Seven-Streams)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Seven-Streams&show_icons=true&locale=en&layout=compact" alt="Seven-Streams" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Seven-Streams&show_icons=true&locale=en" alt="Seven-Streams" /></p>
 
