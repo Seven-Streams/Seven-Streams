@@ -6,7 +6,7 @@ I'll keep on learning until the farewell bewteen the world and me!
 
 Well, I'm still weak now, but I'll be strong someday!
 
-Here is my archive: [https://linzhangli.top](https://linzhangli.top)
+Here is my website: [https://linzhangli.top](https://linzhangli.top)
 
 Here is my blog: [https://seven-streams.github.io](https://seven-streams.github.io)
 
