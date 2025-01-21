@@ -8,8 +8,6 @@ Well, I'm still weak now, but I'll be strong someday!
 
 Here is my website: [https://linzhangli.top](https://linzhangli.top)
 
-Here is my blog: [https://seven-streams.github.io](https://seven-streams.github.io)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Seven-Streams)](https://github.com/ryo-ma/github-profile-trophy)
 
 
