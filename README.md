@@ -2,7 +2,7 @@
 
 I'm a student of ACM Honor Class, Shanghai Jiao Tong University.
 
-I'm intrested in LLMs and MLsys now.
+I'm interested in LLMs and MLsys now.
 
 Here is my website: [https://linzhangli.top](https://linzhangli.top)
 
