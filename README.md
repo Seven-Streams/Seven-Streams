@@ -1,6 +1,6 @@
 <h1 align="center">Hello!(你好(nə hɔ))!👋, here is Seven Streams.</h1>
 
-I'm a student of ACM Honor Class, Shanghai Jiao Tong University.
+I'm a student of ACM Honors Class, Shanghai Jiao Tong University.
 
 I'm interested in LLMs and MLsys now.
 
