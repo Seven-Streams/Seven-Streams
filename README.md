@@ -1,6 +1,6 @@
 <h1 align="center">Hello!(你好(nə hɔ))!👋, here is Seven Streams.</h1>
 
-I'm a second-year undergraduate of [**ACM Honors Class**](https://acm.sjtu.edu.cn/home), Shanghai Jiao Tong University. 
+I'm a third-year undergraduate of [**ACM Honors Class**](https://acm.sjtu.edu.cn/home), Shanghai Jiao Tong University. 
 
 As an undergraduate, I'm mainly interested in machine learning system, large language models and automata theory. Currently, I'm working closely with [Ubospica](https://github.com/ubospica) on the open-source project [XGrammar](https://github.com/mlc-ai/xgrammar). I enjoy coding, and helping others achieve their goals.
 Besides coding, I also like playing drums, chess, and football.
