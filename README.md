@@ -2,7 +2,7 @@
 
 I'm a third-year undergraduate of [**ACM Honors Class**](https://acm.sjtu.edu.cn/home), Shanghai Jiao Tong University. 
 
-As an undergraduate, I'm mainly interested in machine learning systems and large language models. Currently, I'm working closely with [Ubospica](https://github.com/ubospica) on the open-source project [XGrammar](https://github.com/mlc-ai/xgrammar) I enjoy coding, and helping others. Besides coding, I also enjoy playing drums, chess, and football.
+As an undergraduate, I'm mainly interested in machine learning systems and large language models. Currently, I'm working closely with [Ubospica](https://github.com/ubospica) on the open-source project [XGrammar](https://github.com/mlc-ai/xgrammar). I enjoy coding, and helping others. Besides coding, I also enjoy playing drums, chess, and football.
 
 Here is my website: [https://linzhangli.top](https://linzhangli.top)
 
