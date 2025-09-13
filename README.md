@@ -2,8 +2,7 @@
 
 I'm a third-year undergraduate of [**ACM Honors Class**](https://acm.sjtu.edu.cn/home), Shanghai Jiao Tong University. 
 
-As an undergraduate, I'm mainly interested in machine learning system, large language models and automata theory. Currently, I'm working closely with [Ubospica](https://github.com/ubospica) on the open-source project [XGrammar](https://github.com/mlc-ai/xgrammar). I enjoy coding, and helping others achieve their goals.
-Besides coding, I also like playing drums, chess, and football.
+As an undergraduate, I'm mainly interested in machine learning systems and large language models. Currently, I'm working closely with [Ubospica](https://github.com/ubospica) on the open-source project [XGrammar](https://github.com/mlc-ai/xgrammar) I enjoy coding, and helping others. Besides coding, I also enjoy playing drums, chess, and football.
 
 Here is my website: [https://linzhangli.top](https://linzhangli.top)
 
@@ -14,3 +13,6 @@ Here is my website: [https://linzhangli.top](https://linzhangli.top)
 
 ### What's Seven Streams?
 Changshu, a small city in east China, is my hometown. There is a poem that describes the city: *Seven streams flow seaward with winding grace; Half of the green hills merge into the city's embrace.* That's why I use this name.
+
+### What's Yuchuan?
+As a Chinese traditional custom, a person should have adopt a courtesy name upon adulthood. Yuchuan is my courtesy name, and I use it in many places.
