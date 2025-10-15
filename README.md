@@ -6,7 +6,7 @@ As an undergraduate, I'm mainly interested in machine learning systems and large
 
 Here is my website: [https://linzhangli.top](https://linzhangli.top)
 
-[![trophy](https://trophygh.kolioaris.xyz/?username=Seven-Streams)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Seven-Streams)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Seven-Streams&show_icons=true&locale=en" alt="Seven-Streams" /></p>
