@@ -1,4 +1,4 @@
-<h1 align="center">Hello!(你好(nə hɔ))!👋, here is Seven Streams.</h1>
+<h1 align="center">Hello(你好(nə hɔ))!👋, here is Seven Streams.</h1>
 
 I'm a third-year undergraduate of [**ACM Honors Class**](https://acm.sjtu.edu.cn/home), Shanghai Jiao Tong University. 
 
