@@ -6,11 +6,7 @@ As an undergraduate, I'm mainly interested in machine learning systems and large
 
 Here is my website: [https://linzhangli.top](https://linzhangli.top)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Seven-Streams)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Seven-Streams&show_icons=true&locale=en" alt="Seven-Streams" /></p>
-
+[![trophy](https://stable-github-profile-trophy.vercel.app/?username=Seven-Streams)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### What's Seven Streams?
 Changshu, a small city in eastern China, is my hometown. There is a poem that describes the city: *Seven streams flow seaward with winding grace; Half of the green hills merge into the city's embrace.* That's why I use this name.
