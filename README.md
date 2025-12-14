@@ -13,7 +13,7 @@ Changshu, a small city in eastern China, is my hometown. There is a poem that de
 
 
 ### What's Yuchuan?
-As a Chinese traditional custom, a person should adopt a courtesy name upon adulthood. Yuchuan is my courtesy name, and I use it in many cases.
+In Chinese tradition, a person should adopt a courtesy name, known as "字(zi)", upon reaching adulthood. Yuchuan is my courtesy name, and I use it in many cases.
 
 
 ### Some Other Words
