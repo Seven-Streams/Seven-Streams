@@ -1,6 +1,6 @@
 <h1 align="center">Hello(你好(nə hɔ))!👋, here is Seven Streams.</h1>
 
-I'm a third-year undergraduate of [**ACM Honors Class**](https://acm.sjtu.edu.cn/home), Shanghai Jiao Tong University. 
+I'm a third-year undergraduate in the [**ACM Honors Class**](https://acm.sjtu.edu.cn/home) at Shanghai Jiao Tong University. 
 
 As an undergraduate, I'm mainly interested in machine learning systems and large language models. Currently, I'm working closely with [Ubospica](https://github.com/ubospica) on the open-source project [XGrammar](https://github.com/mlc-ai/xgrammar). I enjoy coding and helping others. Besides coding, I also enjoy playing drums, chess, and football.
 
@@ -13,7 +13,7 @@ Changshu, a small city in eastern China, is my hometown. There is a poem that de
 
 
 ### What's Yuchuan?
-As a Chinese traditional custom, a person should adopt a courtesy name upon adulthood. Yuchuan is my courtesy name, and I use it in many places.
+As a Chinese traditional custom, a person should adopt a courtesy name upon adulthood. Yuchuan is my courtesy name, and I use it in many cases.
 
 
 ### Some Other Words
