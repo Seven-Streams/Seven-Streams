@@ -1,8 +1,8 @@
-<h1 align="center">Hello(你好(nə hɔ))!👋, here is Seven Streams.</h1>
+<h1 align="center">Hello(你好(nə hɔ))!👋 Here is Seven Streams.</h1>
 
 I'm a third-year undergraduate in the [**ACM Honors Class**](https://acm.sjtu.edu.cn/home) at Shanghai Jiao Tong University. 
 
-As an undergraduate, I'm mainly interested in machine learning systems and large language models. Currently, I'm working closely with [Ubospica](https://github.com/ubospica) on the open-source project [XGrammar](https://github.com/mlc-ai/xgrammar). I enjoy coding and helping others. Besides coding, I also enjoy playing drums, chess, and football.
+As an undergraduate, I'm mainly interested in machine learning systems and large language models. Currently, I'm working closely with [Prof. Tianqi Chen](https://github.com/tqchen) on open-source projects. I enjoy coding, drums, chess, and helping others.
 
 Here is my website: [https://linzhangli.top](https://linzhangli.top)
 
