@@ -1,6 +1,6 @@
 <h1 align="center">Hello(你好(nə hɔ))!👋 Here is Seven Streams.</h1>
 
-I'm a third-year undergraduate in the [**ACM Honors Class**](https://acm.sjtu.edu.cn/home) at Shanghai Jiao Tong University. 
+I'm a fourth-year undergraduate in the [**ACM Honors Class**](https://acm.sjtu.edu.cn/home) at Shanghai Jiao Tong University. 
 
 As an undergraduate, I'm mainly interested in machine learning systems and large language models. Currently, I'm working closely with [Prof. Tianqi Chen](https://github.com/tqchen) on open-source projects. I enjoy coding, drums, chess, and helping others.
 
