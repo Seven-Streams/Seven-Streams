@@ -4,7 +4,7 @@ I'm a fourth-year undergraduate in the [**ACM Honors Class**](https://acm.sjtu.e
 
 My research interests lie in machine learning systems, large language models, and agentic auto-research. I focus on developing effective and efficient methods to advance LLM capabilities and enable LLMs to improve themselves. Previously, I worked extensively on structured generation for LLMs.
 
-Currently, I'm contributing to several open-source projects, including [XGrammar](https://github.com/mlc-ai/xgrammar), [TVM-FFI](https://github.com/apache/tvm-ffi), and [TIRx-harness](https://github.com/mlc-ai/TIRx-harness).
+Currently, I'm contributing to several open-source projects, including [XGrammar](https://github.com/mlc-ai/xgrammar), [TVM-FFI](https://github.com/apache/tvm-ffi), [TIRx-harness](https://github.com/mlc-ai/TIRx-harness) and [TVM-TIRx](https://github.com/apache/tvm-tirx).
 
 Here is my website: [https://linzhangli.top](https://linzhangli.top)
 
